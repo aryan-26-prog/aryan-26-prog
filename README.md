@@ -15,6 +15,13 @@
 
 ---
 
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" height="170"/>
+</p>
+
+
 ## 🌐 Socials
 <p>
 <a href="https://www.linkedin.com/in/aryan-dhiman-2605ad"><img src="https://skillicons.dev/icons?i=linkedin" width="45"></a>
@@ -26,7 +33,7 @@
 
 ## 🧰 Tech Stack
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,django,php" height="45">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,django,numpy,php" height="45">
 </p>
 <p>
 <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,html,css" height="45">
