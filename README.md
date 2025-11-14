@@ -36,7 +36,7 @@
 
 ## 🛠️ Tools I Use
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,canva,vite" height="45">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vite,canva" height="45">
 </p>
 
 
