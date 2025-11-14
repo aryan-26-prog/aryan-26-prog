@@ -26,10 +26,10 @@
 
 ## 🧰 Tech Stack
 <p>
-<img src="https://skillicons.dev/icons?i=cpp, java, python,js,html,css" height="45">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css" height="45">
 </p>
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,expressjs,django,mongodb,php,git,github" height="45">
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,django,php,git,github" height="45">
 </p>
 
 ---
