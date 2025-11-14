@@ -15,19 +15,11 @@
 
 ---
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" height="170"/>
-</p>
-
----
-
 ## 🌐 Socials
 <p>
-<a href="https://linkedin.com/in/YOURUSERNAME"><img src="https://skillicons.dev/icons?i=linkedin" width="45"></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" width="45"></a>
-<a href="https://instagram.com/YOURUSERNAME"><img src="https://skillicons.dev/icons?i=instagram" width="45"></a>
+<a href="https://www.linkedin.com/in/aryan-dhiman-2605ad"><img src="https://skillicons.dev/icons?i=linkedin" width="45"></a>
+<a href="mailto:aryandhiman2605@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"></a>
+<a href="https://instagram.com/aryandhiman_01"><img src="https://skillicons.dev/icons?i=instagram" width="45"></a>
 </p>
 
 ---
@@ -37,7 +29,7 @@
 <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css" height="45">
 </p>
 <p>
-<img src="https://skillicons.dev/icons?i=react,django,mongodb,mysql,git,github" height="45">
+<img src="https://skillicons.dev/icons?i=react,django,mongodb,php,git,github" height="45">
 </p>
 
 ---
