@@ -3,8 +3,7 @@
 ## 🧑‍💻 About Me
 - 🔥 Passionate Developer  
 - 🚀 Exploring Mern Stack, Django, AI Projects  
-- 🛠 Strong in JS, Python, React  
-- 📬 Email: your-email-here  
+- 📬 Email: aryandhiman2605@gmail.com
 - 🌐 LinkedIn: your-linkedin-here  
 
 ---
