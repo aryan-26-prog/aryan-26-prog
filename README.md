@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Dhiman</h1>
 
 ## 🧑‍💻 About Me
-- 🔥 Passionate Developer  
+- 🔥 Passionate Web Developer  
 - 🚀 Exploring Mern Stack, Django, AI Projects  
 - 📬 Email: aryandhiman2605@gmail.com
 - 🌐 LinkedIn: www.linkedin.com/in/aryan-dhiman-2605ad  
@@ -29,7 +29,7 @@
 <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css" height="45">
 </p>
 <p>
-<img src="https://skillicons.dev/icons?i=react,django,mongodb,php,git,github" height="45">
+<img src="https://skillicons.dev/icons?i=react,nodejs,django,mongodb,php,git,github" height="45">
 </p>
 
 ---
