@@ -33,7 +33,7 @@
 
 ## 🧰 Tech Stack
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,html,css,js,c,cpp,python,django,php" height="45">
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,c,cpp,python,django,php,js,html,css" height="45">
 </p>
 
 ---
