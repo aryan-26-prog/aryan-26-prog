@@ -26,13 +26,19 @@
 
 ## 🧰 Tech Stack
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css" height="45">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,django,php" height="45">
 </p>
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,django,php,git,github" height="45">
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,html,css" height="45">
 </p>
 
 ---
+
+## 🛠️ Tools I Use
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,canva,vite" height="45">
+</p>
+
 
 ## 🎲 Random Dev Quote
 <p align="center">
