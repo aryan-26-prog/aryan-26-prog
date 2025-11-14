@@ -4,7 +4,7 @@
 - 🔥 Passionate Developer  
 - 🚀 Exploring Mern Stack, Django, AI Projects  
 - 📬 Email: aryandhiman2605@gmail.com
-- 🌐 LinkedIn: your-linkedin-here  
+- 🌐 LinkedIn: www.linkedin.com/in/aryan-dhiman-2605ad  
 
 ---
 
