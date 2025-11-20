@@ -11,7 +11,7 @@
 
 ## ⚡ GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aryan-26-prog&theme=dark&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aryan-26-prog&theme=dark&hide_border=false" />
 </p>
 
 ---
@@ -35,14 +35,14 @@
 
 ## 🧰 Tech Stack
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,python,django,php,c,cpp,js,html,css" height="45">
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,python,django,php,c,cpp,js,html,css" height="45">
 </p>
 
 ---
 
 ## 🛠️ Tools I Use
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vite,canva,figma" height="45">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vite" height="45">
 </p>
 
 ---
