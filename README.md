@@ -1,26 +1,28 @@
 <h1 align="center">Hi 👋, I'm Aryan Dhiman</h1>
 
 ## 🧑‍💻 About Me
-- 🔥 Passionate Web Developer  
-- 🚀 Exploring Mern Stack, Django, AI Projects  
-- 📬 Email: aryandhiman2605@gmail.com
+- 🔥 Aspiring Full-Stack Developer  
+- 🚀 Exploring MERN, Django, AI & Real-Life Projects  
+- 🎯 Always learning & building new things  
+- 📬 Email: aryandhiman2605@gmail.com  
 - 🌐 LinkedIn: www.linkedin.com/in/aryan-dhiman-2605ad  
 
 ---
 
-## ⚡ GitHub Streak:
+## ⚡ GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=dark" />
+  <img src="https://streak-stats.demolab.com/?user=aryan-26-prog&theme=dark&hide_border=false" />
 </p>
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryan-26-prog&show_icons=true&theme=dark" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-26-prog&layout=compact&theme=dark" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan-26-prog&show_icons=true&theme=dark&cache_seconds=1" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-26-prog&layout=compact&theme=dark&cache_seconds=1" height="170"/>
 </p>
 
+---
 
 ## 🌐 Socials
 <p>
@@ -33,18 +35,24 @@
 
 ## 🧰 Tech Stack
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,python,django,c,cpp,php,js,html,css" height="45">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,python,django,php,c,cpp,js,html,css" height="45">
 </p>
 
 ---
 
 ## 🛠️ Tools I Use
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vite,canva" height="45">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vite,canva,figma" height="45">
 </p>
 
+---
 
 ## 🎲 Random Dev Quote
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
+
+---
+
+## 🚀 Fun Fact  
+💡 *"I break things while learning… then learn how to fix them better!"*
