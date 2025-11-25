@@ -16,15 +16,12 @@
 
 ---
 
-## 📊 Top Languages (100% Working)
+## 📊 GitHub Stats 
+<p align="center"> 
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aryan-26-prog&show_icons=true&theme=dark" height="170" />
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aryan-26-prog&theme=github_dark" height="170" />
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryan-26-prog&theme=github_dark" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-26-prog&layout=compact&theme=dark&cache_seconds=1" height="170"/>
 </p>
-
-
 
 ---
 
