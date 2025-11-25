@@ -20,7 +20,8 @@
 <p align="center"> 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aryan-26-prog&show_icons=true&theme=dark" height="170" />
 
-  <img src="https://gh-readme-profile.vercel.app/api/top-langs/?username=aryan-26-prog&layout=compact&theme=dark" height="170"/>
+  <img src="https://github-readme-stats-arianz.vercel.app/api/top-langs/?username=aryan-26-prog&layout=compact&theme=dark" height="170"/>
+
 </p>
 
 ---
