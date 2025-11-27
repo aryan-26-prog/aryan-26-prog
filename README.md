@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center" style="margin-top:-10px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=2200&pause=800&color=4CC9F0&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+%7C+Django+%7C+AI+Enthusiast;Building+Real-Life+Tech+Solutions;Clean+Code+%7C+Modern+Logic" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2200&pause=800&color=4CC9F0&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+%7C+Django+%7C+AI+Enthusiast;Building+Real-Life+Tech+Solutions;Clean+Code+%7C+Modern+Logic" />
 </p>
 
 ---
@@ -22,14 +22,20 @@
 
 ## ⚡ GitHub Streak  
 <p align="center"> 
-  <img src="https://streak-stats.demolab.com?user=aryan-26-prog&theme=tokyonight&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=aryan-26-prog&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&card_width=500&ring=4CC9F0&fire=F72585&currStreakLabel=7209B7" />
 </p>
+
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aryan-26-prog&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false" height="170" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aryan-26-prog&layout=compact&theme=tokyonight&hide_border=false&border_radius=12&langs_count=20" height="170" />
+
+  <!-- Latest stable & non-cache stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan-26-prog&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false&count_private=true&include_all_commits=true" height="170" />
+
+  <!-- Latest language stats endpoint -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-26-prog&layout=compact&theme=tokyonight&hide_border=false&border_radius=12&langs_count=20" height="170" />
+
 </p>
 
 ---
@@ -52,14 +58,14 @@
 
 ## 🧰 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,python,django,php,js,c,cpp,java,html,css" height="45" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,python,django,php,js,ts,c,cpp,java,html,css" height="45" />
 </p>
 
 ---
 
 ## 🛠 Tools I Use  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vite,bootstrap,canva" height="45" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vite,bootstrap,canva,figma" height="45" />
 </p>
 
 ---
