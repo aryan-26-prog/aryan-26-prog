@@ -5,16 +5,12 @@
   </span>
 </h1>
 
-<p align="center" style="margin-top:-12px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2200&pause=800&color=4CC9F0&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+%7C+Django+%7C+AI+Enthusiast;Building+Real-Life+Tech+Solutions;Clean+Code+%7C+Modern+Logic" />
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
-- Full-Stack Developer  
+- Aspiring Full-Stack Developer  
 - MERN + Django + AI Projects  
-- Focused on performance, clean UI & real-world applications  
+- Passionate about real-world problem solving
 - Email: **aryandhiman2605@gmail.com**  
 - LinkedIn: **www.linkedin.com/in/aryan-dhiman-2605ad**
 
@@ -22,7 +18,7 @@
 
 ## ⚡ GitHub Streak  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aryan-26-prog&theme=tokyonight&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=aryan-26-prog&theme=github-dark-theme&hide_border=false" />
 </p>
 
 ---
