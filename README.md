@@ -22,7 +22,7 @@
 
 ## ⚡ GitHub Streak  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aryan-26-prog&theme=tokyonight_duo&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aryan-26-prog&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
