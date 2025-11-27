@@ -7,7 +7,7 @@
 
 ## ⚡ GitHub Streak (Neon Glow)
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aryan-26-prog&theme=tokyonight&border_radius=10" height="205"/>
+  <img src="https://streak-stats.demolab.com?user=aryan-26-prog&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
@@ -43,33 +43,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vite,figma,linux,aws,bootstrap" height="50" />
 </p>
-
----
-
-## 🚀 Featured Projects (3D Futuristic Cards)
-
-<table align="center">
-<tr>
-<td width="50%">
-  
-### 🔹 **SmartMech — AI Vehicle Fault Detector**  
-Real-time vehicle fault detection using phone sensors + ML.  
-**Tech:** Python, React, ML  
-
-[🔗 View Project](#)
-
-</td>
-<td width="50%">
-  
-### 🔹 **CivicTrack — Smart City Issue Tracker**  
-Users report civic issues with location & photos.  
-**Tech:** Django, React, Maps  
-
-[🔗 View Project](#)
-
-</td>
-</tr>
-</table>
 
 ---
 
