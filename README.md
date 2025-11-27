@@ -1,8 +1,6 @@
 <!-- 🌟 PREMIUM GRADIENT HEADER -->
 <h1 align="center" style="font-weight:700;">
-  <span style="background: linear-gradient(to right, #F72585, #7209B7, #4361EE); -webkit-background-clip: text; color: transparent;">
     Hi 👋, I'm Aryan Dhiman
-  </span>
 </h1>
 
 ---
@@ -50,14 +48,14 @@
 
 ## 🧰 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,python,django,php,js,ts,c,cpp,java,html,css" height="45" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,python,django,php,js,c,cpp,java,html,css" height="45" />
 </p>
 
 ---
 
 ## 🛠 Tools I Use  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vite,bootstrap,canva,figma" height="45" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vite,bootstrap" height="45" />
 </p>
 
 ---
