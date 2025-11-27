@@ -5,12 +5,16 @@
   </span>
 </h1>
 
+<p align="center" style="margin-top:-12px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2200&pause=800&color=4CC9F0&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+%7C+Django+%7C+AI+Enthusiast;Building+Real-Life+Tech+Solutions;Clean+Code+%7C+Modern+Logic" />
+</p>
+
 ---
 
 ## 🧑‍💻 About Me
-- Aspiring Full-Stack Developer  
+- Full-Stack Developer  
 - MERN + Django + AI Projects  
-- Passionate about real-world problem solving
+- Focused on performance, clean UI & real-world applications  
 - Email: **aryandhiman2605@gmail.com**  
 - LinkedIn: **www.linkedin.com/in/aryan-dhiman-2605ad**
 
@@ -21,18 +25,13 @@
   <img src="https://streak-stats.demolab.com?user=aryan-26-prog&theme=tokyonight&hide_border=false" />
 </p>
 
-
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan-26-prog&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false&include_all_commits=true&count_private=true" height="170" />
 
-  <!-- Latest stable & non-cache stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=aryan-26-prog&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false&count_private=true&include_all_commits=true" height="170" />
-
-  <!-- Latest language stats endpoint -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-26-prog&layout=compact&theme=tokyonight&hide_border=false&border_radius=12&langs_count=20" height="170" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-26-prog&layout=compact&theme=tokyonight&langs_count=20&hide_border=false&border_radius=12" height="170" />
 </p>
 
 ---
@@ -46,9 +45,9 @@
 
 ## 🌐 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/aryan-dhiman-2605ad"><img src="https://skillicons.dev/icons?i=linkedin" width="48" /></a>
-  <a href="mailto:aryandhiman2605@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" /></a>
-  <a href="https://instagram.com/aryandhiman_01"><img src="https://skillicons.dev/icons?i=instagram" width="48" /></a>
+  <a href="https://www.linkedin.com/in/aryan-dhiman-2605ad"><img src="https://skillicons.dev/icons?i=linkedin" width="46" /></a>
+  <a href="mailto:aryandhiman2605@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="46" /></a>
+  <a href="https://instagram.com/aryandhiman_01"><img src="https://skillicons.dev/icons?i=instagram" width="46" /></a>
 </p>
 
 ---
