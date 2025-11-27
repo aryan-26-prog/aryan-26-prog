@@ -16,9 +16,9 @@
 
 ---
 
-## ⚡ GitHub Streak (Neon Glow)
+## ⚡ GitHub Streak (Glow Edition)
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aryan-26-prog&theme=neon-dark&border_radius=8&ring=00E8FF&fire=FF00FF&currStreakLabel=00E8FF" height="205"/>
+  <img src="https://streak-stats.demolab.com?user=aryan-26-prog&theme=tokyonight&border_radius=8" height="205"/>
 </p>
 
 ---
@@ -27,23 +27,23 @@
 <p align="center">
 
   <!-- ⭐ Main Stats -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aryan-26-prog&show_icons=true&theme=react&border_radius=10&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aryan-26-prog&show_icons=true&theme=react&border_radius=10&include_all_commits=true&count_private=true" height="180"/>
 
-  <!-- 🌐 Top Languages — MAX 50 LANGUAGES (ALL WILL SHOW) -->
+  <!-- 🌐 Top Languages — MAX 50 LANGUAGES -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aryan-26-prog&layout=compact&theme=react&langs_count=50&hide_progress=false&border_radius=10" height="180"/>
 
 </p>
 
 ---
 
-## 🛰 Activity Graph (3D Waves)
+## 🛰 3D Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-26-prog&theme=tokyo-night&area=true&height=300" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-26-prog&theme=tokyo-night&area=true" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake Animation (Glowing)
+## 🐍 Contribution Snake Animation
 <p align="center">
   <img src="https://raw.githubusercontent.com/aryan-26-prog/aryan-26-prog/output/github-contribution-grid-snake.svg" />
 </p>
@@ -66,7 +66,7 @@
 
 ---
 
-## 🌟 Dynamic Trophy Cabinet (Achievements)
+## 🌟 Trophy Cabinet (Achievements)
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aryan-26-prog&theme=matrix&no-frame=true&row=1&column=7" />
 </p>
