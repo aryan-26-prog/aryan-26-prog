@@ -25,8 +25,8 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aryan-26-prog&show_icons=true&theme=github_dark&hide_border=false&border_radius=10" height="170" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aryan-26-prog&layout=compact&theme=github_dark&hide_border=false&border_radius=10&langs_count=20" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aryan-26-prog&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aryan-26-prog&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&langs_count=20" height="170" />
 </p>
 
 
