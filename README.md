@@ -1,7 +1,8 @@
-<!-- PROFILE HEADER -->
+<!-- 🌟 CLEAN & PROFESSIONAL ANIMATED HEADER -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryan-26-prog&theme=github_dark" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=2000&pause=800&color=0A66C2&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Aryan+Dhiman;Full-Stack+Developer;MERN+%7C+Django+%7C+AI+Enthusiast;Clean+%26+Professional+Code+Crafter" />
 </p>
+
 
 
 ---
