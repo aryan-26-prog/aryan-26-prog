@@ -1,56 +1,116 @@
 <!-- ---------------------------------------------------------------------- -->
-<!--                  ⚡ ARYAN DHIMAN — ULTRA FUTURISTIC MODE               -->
+<!--                ⚡ ARYAN DHIMAN — ULTRA FUTURISTIC README               -->
 <!-- ---------------------------------------------------------------------- -->
 
 <!-- 🌌 HOLOGRAPHIC TYPING HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00E8FF&center=true&vCenter=true&width=700&lines=Aryan+Dhiman+🚀;Full-Stack+Developer+%7C+AI+Builder;MERN+%7C+Django+%7C+Python+%7C+React;Crafting+Futuristic+Projects+Everyday!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00E8FF&center=true&vCenter=true&width=700&lines=Aryan+Dhiman+🚀;Full-Stack+Developer;MERN+%7C+Django+%7C+AI+Enthusiast;Building+Futuristic+Real-Life+Projects!" />
 </p>
 
 ---
 
-<!-- 🌈 NEON PROFILE CARD -->
+<!-- 🔥 Visitor Counter -->
 <p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=aryan-26-prog&theme=radical&data=followers,repositories,stars,commits"/>
+  <img src="https://komarev.com/ghpvc/?username=aryan-26-prog&label=Profile+Views&color=00E8FF&style=for-the-badge" />
 </p>
 
 ---
 
-## ⚡ GitHub Streak (Glow Edition)
+<!-- 🌈 PROFILE CARD -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aryan-26-prog&theme=tokyonight&border_radius=8" height="205"/>
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=aryan-26-prog&theme=radical&data=repositories,stars,followers,commits" />
 </p>
 
 ---
 
-## 🔥 HYPER ADVANCED GITHUB STATS
+## ⚡ GitHub Streak (Neon Glow)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aryan-26-prog&theme=tokyonight&border_radius=10" height="205"/>
+</p>
+
+---
+
+## 🔥 Advanced GitHub Stats
 <p align="center">
 
   <!-- ⭐ Main Stats -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aryan-26-prog&show_icons=true&theme=react&border_radius=10&include_all_commits=true&count_private=true" height="180"/>
 
-  <!-- 🌐 Top Languages — MAX 50 LANGUAGES -->
+  <!-- 🌐 Top Languages -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aryan-26-prog&layout=compact&theme=react&langs_count=50&hide_progress=false&border_radius=10" height="180"/>
 
 </p>
 
 ---
 
-## 🛰 3D Activity Graph
+## 🛰 GitHub Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-26-prog&theme=tokyo-night&area=true" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 🧑‍💻 Tech Stack (Core)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aryan-26-prog/aryan-26-prog/output/github-contribution-grid-snake.svg" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,django,php,js,ts,html,css,c,cpp" height="50" />
 </p>
 
 ---
 
-## 🌐 Social Universe
+## 🛠 Tools & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vite,figma,linux,aws,bootstrap" height="50" />
+</p>
+
+---
+
+## 🚀 Featured Projects (3D Futuristic Cards)
+
+<table align="center">
+<tr>
+<td width="50%">
+  
+### 🔹 **SmartMech — AI Vehicle Fault Detector**  
+Real-time vehicle fault detection using phone sensors + ML.  
+**Tech:** Python, React, ML  
+
+[🔗 View Project](#)
+
+</td>
+<td width="50%">
+  
+### 🔹 **CivicTrack — Smart City Issue Tracker**  
+Users report civic issues with location & photos.  
+**Tech:** Django, React, Maps  
+
+[🔗 View Project](#)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌟 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-achievements.vercel.app/api?username=aryan-26-prog" />
+</p>
+
+---
+
+## 💬 Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Fun Fact
+**“I break things while learning… then fix them even better!”**
+
+---
+
+## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/aryan-dhiman-2605ad"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
   <a href="mailto:aryandhiman2605@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a>
@@ -59,23 +119,4 @@
 
 ---
 
-## 🛠 TECH STACK (Full Arsenal)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,django,php,java,c,cpp,js,ts,html,css,bootstrap,git,github,vscode,postman,vite,linux,aws,figma" height="50"/>
-</p>
-
----
-
-## 🌟 Trophy Cabinet (Achievements)
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aryan-26-prog&theme=matrix&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 🚀 Fun Fact
-**“I break things while learning… then fix them 10x better!”**
-
----
-
-<!-- END OF FUTURISTIC README -->
+<!-- END OF ULTRA FUTURISTIC README -->
