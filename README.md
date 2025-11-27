@@ -1,6 +1,6 @@
-<!-- 🌈 PROFILE CARD -->
+<!-- ⚡ ADVANCED PROFILE CARD -->
 <p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=aryan-26-prog&theme=radical&data=repositories,stars,followers,commits" />
+  <img src="https://github-readme-badge.vercel.app/api/cards/profile-details?username=aryan-26-prog&theme=radical&border_radius=12" />
 </p>
 
 ---
