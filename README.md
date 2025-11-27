@@ -32,11 +32,10 @@
 
 ---
 
-## 🛰 GitHub Activity Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-26-prog&theme=tokyo-night&area=true&color=4CC9F0&line=F72585&point=7209B7" />
+## 🛰 GitHub Activity Graph 
+<p align="center"> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-26-prog&theme=tokyo-night&area=true" /> 
 </p>
-
 ---
 
 ## 🌐 Connect With Me  
