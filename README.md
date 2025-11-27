@@ -5,10 +5,6 @@
   </span>
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=2000&pause=800&color=4CC9F0&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;MERN+%7C+Django+%7C+AI+Enthusiast;Building+Modern+%26+Real-Life+Projects;Clean+Code+%7C+Strong+Logic" />
-</p>
-
 ---
 
 ## 🧑‍💻 About Me  
@@ -21,8 +17,8 @@
 ---
 
 ## ⚡ GitHub Streak  
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aryan-26-prog&theme=tokyonight&hide_border=false" />
+<p align="center"> 
+  <img src="https://streak-stats.demolab.com?user=aryan-26-prog&theme=github-dark-blue&hide_border=false" /> 
 </p>
 
 ---
@@ -56,14 +52,14 @@
 
 ## 🧰 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,django,php,js,ts,html,css,c,cpp" height="45" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,python,django,php,js,c,c++,java,html5,css3," height="45" />
 </p>
 
 ---
 
 ## 🛠 Tools I Use  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vite,figma,linux,aws,bootstrap" height="45" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vite,thunderclient,bootstrap,canva" height="45" />
 </p>
 
 ---
