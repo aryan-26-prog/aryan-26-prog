@@ -1,6 +1,6 @@
 <!-- ⚡ ADVANCED PROFILE CARD -->
 <p align="center">
-  <img src="https://github-readme-badge.vercel.app/api/cards/profile-details?username=aryan-26-prog&theme=radical&border_radius=12" />
+  <img src="https://github-readme-badge.vercel.app/api/cards/profile-details?username=aryan-26-prog&theme=react&border_radius=15&ring_color=00E8FF" />
 </p>
 
 ---
