@@ -1,7 +1,8 @@
-<!-- ⚡ ADVANCED PROFILE CARD -->
+<!-- PROFILE HEADER -->
 <p align="center">
-  <img src="https://github-readme-badge.vercel.app/api/cards/profile-details?username=aryan-26-prog&theme=react&border_radius=15&ring_color=00E8FF" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryan-26-prog&theme=radical" />
 </p>
+
 
 ---
 
