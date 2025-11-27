@@ -26,10 +26,10 @@
 ## 📊 GitHub Stats  
 <p align="center">
   <!-- Main Stats -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aryan-26-prog&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aryan-26-prog&show_icons=true&theme=github-dark-blue&border_radius=12&hide_border=false" height="170" />
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aryan-26-prog&layout=compact&theme=tokyonight&langs_count=20&hide_border=false&border_radius=12" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aryan-26-prog&layout=compact&theme=github-dark-blue&langs_count=20&hide_border=false&border_radius=12" height="170" />
 </p>
 
 ---
@@ -52,14 +52,14 @@
 
 ## 🧰 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,python,django,php,js,c,c++,java,html5,css3," height="45" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,python,django,php,js,c,cpp,java,html,css," height="45" />
 </p>
 
 ---
 
 ## 🛠 Tools I Use  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vite,thunderclient,bootstrap,canva" height="45" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vite,bootstrap,canva" height="45" />
 </p>
 
 ---
