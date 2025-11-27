@@ -21,10 +21,9 @@
 ---
 
 ## ⚡ GitHub Streak  
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aryan-26-prog&theme=tokyonight_duo&hide_border=false" />
+<p align="center"> 
+  <img src="https://streak-stats.demolab.com?user=aryan-26-prog&theme=tokyonight&hide_border=false" />
 </p>
-
 ---
 
 ## 📊 GitHub Stats  
