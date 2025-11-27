@@ -1,13 +1,3 @@
-<!-- ---------------------------------------------------------------------- -->
-<!--                ⚡ ARYAN DHIMAN — ULTRA FUTURISTIC README               -->
-<!-- ---------------------------------------------------------------------- -->
-
-<!-- 🌌 HOLOGRAPHIC TYPING HEADER -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00E8FF&center=true&vCenter=true&width=700&lines=Aryan+Dhiman+🚀;Full-Stack+Developer;MERN+%7C+Django+%7C+AI+Enthusiast;Building+Futuristic+Real-Life+Projects!" />
-</p>
-
----
 
 <!-- 🔥 Visitor Counter -->
 <p align="center">
