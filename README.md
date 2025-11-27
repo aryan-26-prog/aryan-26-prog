@@ -1,11 +1,3 @@
-
-<!-- 🔥 Visitor Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aryan-26-prog&label=Profile+Views&color=00E8FF&style=for-the-badge" />
-</p>
-
----
-
 <!-- 🌈 PROFILE CARD -->
 <p align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=aryan-26-prog&theme=radical&data=repositories,stars,followers,commits" />
