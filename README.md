@@ -29,6 +29,13 @@
 
 ---
 
+## 🛰 GitHub Activity Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-26-prog&theme=tokyo-night&area=true&color=4CC9F0&line=F72585&point=7209B7" />
+</p>
+
+---
+
 ## 🌐 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/aryan-dhiman-2605ad"><img src="https://skillicons.dev/icons?i=linkedin" width="46" /></a>
