@@ -54,7 +54,7 @@
 
 ## 🛠 Tools I Use  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vite,bootstrap" height="45" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jupyter,vite,bootstrap" height="45" />
 </p>
 
 ---
