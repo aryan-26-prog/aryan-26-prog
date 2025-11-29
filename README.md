@@ -16,14 +16,14 @@
 
 ## ⚡ GitHub Streak 
 <p align="center"> 
-    <img src="https://streak-stats.demolab.com?user=aryan-26-prog&theme=tokyonight&hide_border=false&cache_seconds=1" /> 
+    <img src="https://streak-stats.demolab.com?user=aryan-26-prog&theme=tokyonight&hide_border=false" /> 
 </p> 
 
 ---
 
 ## 📊 GitHub Stats 
 <p align="center"> 
-    <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=aryan-26-prog&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false&include_all_commits=true&count_private=true" height="170" /> 
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=aryan-26-prog&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" /> 
     <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=aryan-26-prog&layout=compact&theme=tokyonight&langs_count=20&hide_border=false&border_radius=12" height="170" /> 
 </p>
 
