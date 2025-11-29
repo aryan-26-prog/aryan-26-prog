@@ -16,7 +16,7 @@
 
 ## ⚡ GitHub Streak 
 <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=aryan-26-prog&show_icons=true&theme=tokyonight&hide_border=false" />
+   <img src="https://streak-stats.demolab.com?user=aryan-26-prog&theme=tokyonight&hide_border=false" />
 </p> 
 
 ---
