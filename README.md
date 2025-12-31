@@ -1,87 +1,74 @@
-<!-- 🌟 PREMIUM GITHUB PROFILE README -->
-
+<!-- 🌟 PREMIUM GRADIENT HEADER -->
 <h1 align="center" style="font-weight:700;">
-  Hi 👋, I'm Aryan Dhiman
+    Hi 👋, I'm Aryan Dhiman
 </h1>
-
-<p align="center">
-  <b>Full-Stack Developer | MERN • Django • AI Projects</b>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aryan-26-prog&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 ---
 
 ## 🧑‍💻 About Me
-- 🚀 Aspiring **Full-Stack Developer**
-- 🧠 Working on **real-world & AI-based projects**
-- ⚙️ Tech: **MERN | Django | Python | React**
-- 📬 Email: **aryandhiman2605@gmail.com**
-- 🔗 LinkedIn: **https://www.linkedin.com/in/aryan-dhiman-2605ad**
+- Aspiring Full-Stack Developer  
+- MERN + Django + AI Projects  
+- Passionate about real-world problem solving
+- Email: **aryandhiman2605@gmail.com**  
+- LinkedIn: **www.linkedin.com/in/aryan-dhiman-2605ad**
 
 ---
 
-## ⚡ GitHub Streak (Live)
+## ⚡ GitHub Streak 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aryan-26-prog&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
 
-## 📊 GitHub Stats (Auto-Updated)
+## 📊 GitHub Stats 
 <p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=aryan-26-prog&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-26-prog&layout=compact&langs_count=10&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan-26-prog&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-26-prog&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---
 
-## 🛰 GitHub Activity Graph (Realtime)
+## 🛰 GitHub Activity Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-26-prog&theme=tokyo-night&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-26-prog&theme=tokyo-night&area=true&color=4CC9F0&line=F72585&point=7209B7" />
 </p>
 
 ---
 
-## 🧰 Tech Stack
+## 🌐 Connect With Me  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,python,django,php,js,java,c,cpp,html,css" />
+  <a href="https://www.linkedin.com/in/aryan-dhiman-2605ad"><img src="https://skillicons.dev/icons?i=linkedin" width="46" /></a>
+  <a href="mailto:aryandhiman2605@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="46" /></a>
+  <a href="https://instagram.com/aryandhiman_01"><img src="https://skillicons.dev/icons?i=instagram" width="46" /></a>
 </p>
 
 ---
 
-## 🛠 Tools & Platforms
+## 🧰 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vite,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,python,django,php,js,c,cpp,java,html,css" height="45" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🛠 Tools I Use  
 <p align="center">
-  <a href="https://www.linkedin.com/in/aryan-dhiman-2605ad">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-  </a>
-  <a href="mailto:aryandhiman2605@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
-  </a>
-  <a href="https://instagram.com/aryandhiman_01">
-    <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vite,bootstrap" height="45" />
 </p>
 
 ---
 
-## 💬 Developer Quote
+## 💬 Developer Quote  
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
 
-## 🚀 Fun Fact
+## 🚀 Fun Fact  
 <p align="center">
-  <b>I break things while learning — then fix them better 💪</b>
+  <strong>I break things while learning — then fix them even better.</strong>
 </p>
+
+---
