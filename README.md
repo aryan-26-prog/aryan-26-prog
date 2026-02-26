@@ -18,15 +18,17 @@
 
 <p align="center">
   <a href="https://my-portfolio-mu-five-50.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20Live%20Portfolio-TokyoNight-1a1b27?style=for-the-badge&logo=vercel&logoColor=58A6FF" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:111827&height=120&section=header&text=Visit%20My%20Portfolio&fontColor=58A6FF&fontSize=30&animation=fadeIn" />
   </a>
 </p>
 
 <p align="center">
-  🌐 <a href="https://my-portfolio-mu-five-50.vercel.app"><strong>my-portfolio-mu-five-50.vercel.app</strong></a>
+  <a href="https://my-portfolio-mu-five-50.vercel.app">
+    🔗 <strong>my-portfolio-mu-five-50.vercel.app</strong>
+  </a>
 </p>
 
---- 
+---
 
 ## 📊 GitHub Stats 
 <p align="center">
