@@ -35,9 +35,8 @@
 <p align="center">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=aryan-26-prog&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" /> 
     <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-26-prog&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-  height="170"
-/>
+src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aryan-26-prog&layout=compact&theme=tokyonight&hide_border=true" 
+height="170"/>
 </p>
 
 ---
