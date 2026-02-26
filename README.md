@@ -15,14 +15,15 @@
 ---
 
 ## 🚀 Portfolio
+
 <p align="center">
   <a href="https://my-portfolio-mu-five-50.vercel.app" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryan-26-prog&repo=my-portfolio&theme=tokyonight&border_radius=12" />
+    <img src="https://img.shields.io/badge/View%20My%20Live%20Portfolio-TokyoNight-1a1b27?style=for-the-badge&logo=vercel&logoColor=58A6FF" />
   </a>
 </p>
 
 <p align="center">
-  🔗 <a href="https://my-portfolio-mu-five-50.vercel.app"><strong>Visit Live Portfolio</strong></a>
+  🌐 <a href="https://my-portfolio-mu-five-50.vercel.app"><strong>my-portfolio-mu-five-50.vercel.app</strong></a>
 </p>
 
 --- 
