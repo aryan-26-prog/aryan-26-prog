@@ -14,6 +14,13 @@
 
 ---
 
+## 🌐 My Portfolio
+<p align="center">
+  <a href="https://my-portfolio-mu-five-50.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🚀 Visit My Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
 ## ⚡ GitHub Streak 
 <p align="center"> 
     <img src="https://streak-stats.demolab.com?user=aryan-26-prog&theme=tokyonight&date_format=j%20M%5B%20Y%5D&hide_border=false" /> 
