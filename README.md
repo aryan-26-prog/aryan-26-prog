@@ -15,18 +15,29 @@
 ---
 
 ## 🚀 Portfolio
+
 <p align="center">
   <a href="https://my-portfolio-mu-five-50.vercel.app">
-    <strong>🌐 Visit My Portfolio →</strong>
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:0d1117&height=60&section=header&text=Visit%20My%20Portfolio&fontColor=58A6FF&fontSize=20&animation=fadeIn" />
   </a>
 </p>
 
 ---
 
+## ⚡ GitHub Streak 
+<p align="center"> 
+    <img src="https://streak-stats.demolab.com?user=aryan-26-prog&theme=tokyonight&date_format=j%20M%5B%20Y%5D&hide_border=false" /> 
+</p>
+
+--- 
+
 ## 📊 GitHub Stats 
 <p align="center">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=aryan-26-prog&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" /> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-26-prog&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" height="170"/>
+    <img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-26-prog&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+  height="170"
+/>
 </p>
 
 ---
