@@ -35,7 +35,7 @@
 <p align="center">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=aryan-26-prog&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" /> 
     <img 
-src="https://github-readme-streak-stats.herokuapp.com?user=aryan-26-prog&theme=tokyonight&hide_border=true&card_width=495"
+src="https://github-profile-trophy.vercel.app/?username=aryan-26-prog&theme=tokyonight&no-frame=true&row=1&column=6"
 />
 </p>
 
