@@ -57,6 +57,7 @@ height="170"/>
 
 ---
 
+## 🧰 Tech Stack
 <p align="center">
 
   <img src="https://skillicons.dev/icons?i=react" height="70" />
