@@ -60,7 +60,7 @@ height="170"/>
 ## 🧰 Tech Stack
 <p align="center">
 
-  <img src="https://skillicons.dev/icons?i=react" height="70" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" />
   <img src="https://skillicons.dev/icons?i=next" height="70" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="70" />
   <img src="https://skillicons.dev/icons?i=express" height="70" />
