@@ -59,24 +59,29 @@ height="170"/>
 
 ## 🧰 Tech Stack
 <p align="center">
-
-  <img src="https://skillicons.dev/icons?i=react" height="70" />
-  <img src="https://skillicons.dev/icons?i=next" height="70" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="70" />
-  <img src="https://skillicons.dev/icons?i=express" height="70" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="70" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="70" />
-  <img src="https://skillicons.dev/icons?i=python" height="70" />
-  <img src="https://skillicons.dev/icons?i=django" height="70" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="70" />
-  <img src="https://skillicons.dev/icons?i=js" height="70" />
-  <img src="https://skillicons.dev/icons?i=c" height="70" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="70" />
-  <img src="https://skillicons.dev/icons?i=java" height="70" />
-  <img src="https://skillicons.dev/icons?i=html" height="70" />
-  <img src="https://skillicons.dev/icons?i=css" height="70" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="70" />
-
+  <!-- Frontend -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=100&height=40&lines=React" alt="React" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=100&height=40&lines=Next.js" alt="Next.js" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=1000&color=339933&center=true&vCenter=true&width=100&height=40&lines=Node.js" alt="Node.js" />
+  
+  <!-- Backend -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=100&height=40&lines=Express" alt="Express" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=1000&color=47A248&center=true&vCenter=true&width=110&height=40&lines=MongoDB" alt="MongoDB" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=1000&color=336791&center=true&vCenter=true&width=110&height=40&lines=PostgreSQL" alt="PostgreSQL" />
+  
+  <!-- Languages -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=1000&color=3776AB&center=true&vCenter=true&width=100&height=40&lines=Python" alt="Python" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=1000&color=092E20&center=true&vCenter=true&width=110&height=40&lines=Django" alt="Django" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=1000&color=4479A1&center=true&vCenter=true&width=100&height=40&lines=MySQL" alt="MySQL" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=80&height=40&lines=JS" alt="JavaScript" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=1000&color=A8B9CC&center=true&vCenter=true&width=60&height=40&lines=C" alt="C" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=1000&color=00599C&center=true&vCenter=true&width=80&height=40&lines=C%2B%2B" alt="C++" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=1000&color=007396&center=true&vCenter=true&width=80&height=40&lines=Java" alt="Java" />
+  
+  <!-- Web -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=1000&color=E34F26&center=true&vCenter=true&width=80&height=40&lines=HTML5" alt="HTML5" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=1000&color=1572B6&center=true&vCenter=true&width=80&height=40&lines=CSS3" alt="CSS3" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=1000&color=06B6D4&center=true&vCenter=true&width=110&height=40&lines=Tailwind" alt="Tailwind" />
 </p>
 
 ---
