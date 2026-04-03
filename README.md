@@ -59,13 +59,21 @@ height="170"/>
 
 ## 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,mongodb,postgres,python,django,mysql,js,java,cpp,c,html,css,tailwind" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+%2B+Django+%2B+AI;Building+Real+World+Projects" />
-</p>
+### 🚀 Frontend
+<img src="https://skillicons.dev/icons?i=react,next,html,css,js" />
+
+### ⚙ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+
+### 🗄 Database
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+
+### 🧠 Languages
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
+
+</div>
 
 ---
 
