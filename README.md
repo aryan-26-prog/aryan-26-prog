@@ -59,37 +59,9 @@ height="170"/>
 
 ## 🧰 Tech Stack
 <p align="center">
-
-  <!-- Frontend -->
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" />
-  <img src="https://techstack-generator.vercel.app/nextjs-icon.svg" width="65" />
-  <img src="https://techstack-generator.vercel.app/html-icon.svg" width="65" />
-  <img src="https://techstack-generator.vercel.app/css-icon.svg" width="65" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" />
-
-  <br/>
-
-  <!-- Backend -->
-  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="65" />
-  <img src="https://techstack-generator.vercel.app/express-icon.svg" width="65" />
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" />
-
-  <br/>
-
-  <!-- Database -->
-  <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" width="65" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" />
-  <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" width="65" />
-
-  <br/>
-
-  <!-- Languages -->
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" />
-  <img src="https://techstack-generator.vercel.app/c-icon.svg" width="65" />
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" />
-
+  <img src="https://skillicons.dev/icons?i=react,next,nodejs&theme=light" style="filter: drop-shadow(0 0 10px #00f);" />
 </p>
+
 ---
 
 ## 🛠 Tools I Use  
