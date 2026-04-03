@@ -58,10 +58,13 @@ height="170"/>
 ---
 
 ## 🧰 Tech Stack
+
 <p align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60"/>
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="60"/>
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="60"/>
+  <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,mongodb,postgres,python,django,mysql,js,java,cpp,c,html,css,tailwind" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+%2B+Django+%2B+AI;Building+Real+World+Projects" />
 </p>
 
 ---
