@@ -58,22 +58,24 @@ height="170"/>
 ---
 
 ## 🧰 Tech Stack
-
-<div align="center">
-
-### 🚀 Frontend
-<img src="https://skillicons.dev/icons?i=react,next,html,css,js" />
-
-### ⚙ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
-
-### 🗄 Database
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-
-### 🧠 Languages
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
-
-</div>
+<p align="center">    
+    <img src="https://skillicons.dev/icons?i=react" height="70" />   
+    <img src="https://skillicons.dev/icons?i=next" height="70" />  
+    <img src="https://skillicons.dev/icons?i=nodejs" height="70" />   
+    <img src="https://skillicons.dev/icons?i=express" height="70" />   
+    <img src="https://skillicons.dev/icons?i=mongodb" height="70" />   
+    <img src="https://skillicons.dev/icons?i=postgres" height="70" />   
+    <img src="https://skillicons.dev/icons?i=python" height="70" />   
+    <img src="https://skillicons.dev/icons?i=django" height="70" />   
+    <img src="https://skillicons.dev/icons?i=mysql" height="70" />   
+    <img src="https://skillicons.dev/icons?i=js" height="70" />   
+    <img src="https://skillicons.dev/icons?i=c" height="70" />   
+    <img src="https://skillicons.dev/icons?i=cpp" height="70" />   
+    <img src="https://skillicons.dev/icons?i=java" height="70" />   
+    <img src="https://skillicons.dev/icons?i=html" height="70" />   
+    <img src="https://skillicons.dev/icons?i=css" height="70" />   
+    <img src="https://skillicons.dev/icons?i=tailwind" height="70" />  
+</p>
 
 ---
 
