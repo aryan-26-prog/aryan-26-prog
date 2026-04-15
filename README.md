@@ -3,7 +3,7 @@
     Hi 👋, I'm Aryan Dhiman
 </h1>
 
-
+---
 
 ## 🧑‍💻 About Me
 - Aspiring Full-Stack Developer  
