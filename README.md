@@ -26,8 +26,9 @@
 
 ## ⚡ GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aryandhiman01&theme=tokyonight&hide_border=true&cache_seconds=0" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryandhiman01&theme=tokyonight&hide_border=true" />
 </p>
+
 --- 
 
 ## 📊 GitHub Stats 
